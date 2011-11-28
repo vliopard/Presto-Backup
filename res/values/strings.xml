@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_backup_name">Presto Backup RC3</string>
+    <string name="start_backup_button">Start Backup</string>
+    <string name="backup_settings">Settings</string>
+    <string name="check_massive_copy_method">Check it to use Massive Copy Method</string>
+    <string name="massive_copy_method">Massive Copy Method</string>
+    <string name="enable_massive_copy_method">Enable Massive Copy Method</string>
+    <string name="custom_backup_directory">Custom Backup Directory</string>
+</resources>

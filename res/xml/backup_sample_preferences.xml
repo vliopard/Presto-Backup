@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/massive_copy_method">
+		<CheckBoxPreference android:key="backup_checkbox"
+							android:title="@string/enable_massive_copy_method" 
+							android:summary="@string/check_massive_copy_method" />
+		<EditTextPreference android:key="backupdir"
+							android:title="@string/custom_backup_directory" />
+	</PreferenceCategory>
+</PreferenceScreen>
